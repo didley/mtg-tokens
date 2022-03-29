@@ -22,9 +22,7 @@
   },
   "dependencies": {
     "preact": "^10.3.1",
-    "preact-render-to-string": "^5.1.4",
-    "react-dnd": "^15.1.1",
-    "react-dnd-html5-backend": "^15.1.2"
+    "preact-render-to-string": "^5.1.4"
   },
   "devDependencies": {
     "@types/enzyme": "^3.10.5",
